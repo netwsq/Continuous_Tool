@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>352464_keyboard_icon.ico</file>
+        <file>0432a40b6ab749f8ae473d5c7e9ce12a.jpg</file>
+        <file>01c8f15aeac135a801207fa16836ae.jpg@1280w_1l_2o_100sh.jpg</file>
+    </qresource>
+</RCC>
